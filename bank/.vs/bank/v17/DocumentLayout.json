@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buiki\\source\\repos\\bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|c:\\users\\buiki\\source\\repos\\bank\\bank\\controller\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|solutionrelative:bank\\controller\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|c:\\users\\buiki\\source\\repos\\bank\\bank\\view\\branchview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|solutionrelative:bank\\view\\branchview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|c:\\users\\buiki\\source\\repos\\bank\\bank\\view\\branchview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|solutionrelative:bank\\view\\branchview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|c:\\users\\buiki\\source\\repos\\bank\\bank\\controller\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|solutionrelative:bank\\controller\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|c:\\users\\buiki\\source\\repos\\bank\\bank\\model\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|solutionrelative:bank\\model\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\buiki\\Documents\\Zalo Received Files\\IController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|c:\\users\\buiki\\source\\repos\\bank\\bank\\model\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F921D0-32A0-4BD5-BAFB-ECA7F816FD1D}|bank\\bank.csproj|solutionrelative:bank\\model\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 354,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IController.cs",
+              "DocumentMoniker": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\Controller\\IController.cs",
+              "RelativeDocumentMoniker": "bank\\Controller\\IController.cs",
+              "ToolTip": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\Controller\\IController.cs",
+              "RelativeToolTip": "bank\\Controller\\IController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:16:25.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "branchView.cs",
+              "DocumentMoniker": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\View\\branchView.cs",
+              "RelativeDocumentMoniker": "bank\\View\\branchView.cs",
+              "ToolTip": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\View\\branchView.cs",
+              "RelativeToolTip": "bank\\View\\branchView.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAWwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:28:12.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "branchView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\View\\branchView.cs",
+              "RelativeDocumentMoniker": "bank\\View\\branchView.cs",
+              "ToolTip": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\View\\branchView.cs [Design]",
+              "RelativeToolTip": "bank\\View\\branchView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:27:48.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\Controller\\BranchController.cs",
+              "RelativeDocumentMoniker": "bank\\Controller\\BranchController.cs",
+              "ToolTip": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\Controller\\BranchController.cs",
+              "RelativeToolTip": "bank\\Controller\\BranchController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAwwJcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:05:55.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\Model\\AccountModel.cs",
+              "RelativeDocumentMoniker": "bank\\Model\\AccountModel.cs",
+              "ToolTip": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\Model\\AccountModel.cs",
+              "RelativeToolTip": "bank\\Model\\AccountModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:34:05.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\Model\\IModel.cs",
+              "RelativeDocumentMoniker": "bank\\Model\\IModel.cs",
+              "ToolTip": "C:\\Users\\buiki\\source\\repos\\bank\\bank\\Model\\IModel.cs",
+              "RelativeToolTip": "bank\\Model\\IModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:24:30.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IController.cs",
+              "DocumentMoniker": "C:\\Users\\buiki\\Documents\\Zalo Received Files\\IController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Zalo Received Files\\IController.cs",
+              "ToolTip": "C:\\Users\\buiki\\Documents\\Zalo Received Files\\IController.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Zalo Received Files\\IController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:23:49.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 46,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
